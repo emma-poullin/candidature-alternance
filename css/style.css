@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+@import url("components/title.css");
+@import url("components/name.css");
+@import url("components/list-stylenone.css");
+@import url("components/profile-container.css");
+@import url("components/profile-picture.css");
+@import url("components/list-inline.css");
+@import url("components/footer.css");
+@import url("components/bas.css");
+@import url("components/haut.css");
+@import url("components/subtitle.css");
+
+body {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+h2, h3, h4 {
+	font-family: 'Roboto', sans-serif;
+}
+
+ul {
+	padding-bottom: 20px;
+	line-height: 25px;
+}
+
+p {
+	margin: 15px;
+}
+
+
+a {
+	text-decoration: none;
+	color: white;
+	background-color: #a5a79f;
+	padding: 3px;
+	border-radius: 4px;
+	margin: 4px;
+}
+
+a:hover{
+	color:black;
+	background-color: #FBF5F3;
+}
+
+img.haut:hover {
+	opacity: 0;
+}

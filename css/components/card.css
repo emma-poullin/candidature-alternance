@@ -1,0 +1,19 @@
+
+.card {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 4px;
+    flex-basis: auto;
+    margin-bottom: 15px;
+    position: relative;
+    float: left;
+}
+
+.card img {
+    transition: opacity 0,5s linear;
+    width: 100%;
+    border-radius: 4px;
+}
+

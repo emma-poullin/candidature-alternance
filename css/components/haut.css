@@ -1,0 +1,9 @@
+.haut {
+	position: absolute;
+	left: 0;
+}
+
+.haut img .haut:hover {
+    opacity: 0;
+}
+
